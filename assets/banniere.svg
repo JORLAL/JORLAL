@@ -20,7 +20,7 @@
 <text x="380" y="132" font-size="58" font-weight="800" fill="url(#texte)" letter-spacing="-1.5">Jordan Lallemand</text>
 <text x="382" y="176" font-size="24" font-weight="500" fill="#a5b4fc">Développeur web &amp; applications · Cofondateur de Ouibel</text>
 <rect x="382" y="198" width="120" height="4" rx="2" fill="url(#ligne)"><animate attributeName="width" values="120;220;120" dur="6s" repeatCount="indefinite"/></rect>
-<text x="382" y="242" font-size="18" fill="#cbd5e1" fill-opacity=".85">Sites web · Applications web &amp; mobiles · Logiciels métier · Hébergement · IA</text>
+<text x="382" y="242" font-size="18" fill="#cbd5e1" fill-opacity=".85">Sites web · Applications web &amp; mobiles · Logiciels métier · IA</text>
 <text x="382" y="272" font-size="15" fill="#94a3b8">🇧🇪 Belgique  ·  ouibel.com</text>
 </g>
 </g>
