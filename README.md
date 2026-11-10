@@ -23,7 +23,7 @@ J'ai d'abord connu le terrain, celui des commerçants et des entrepreneurs. C'es
 
 ## Ce que je fais
 
-| | |
+| Domaine | Ce que je propose |
 |---|---|
 | 🌐 **Sites internet** | Sites vitrines et sites professionnels modernes, rapides, bien référencés et conformes (RGPD, mentions légales). |
 | 🧾 **Logiciels de gestion** | Facturation, devis, comptabilité, TVA belge, factures électroniques Peppol, caisse et stock. |
@@ -62,9 +62,6 @@ J'ai d'abord connu le terrain, celui des commerçants et des entrepreneurs. C'es
 ## Mon activité
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JORLAL&show_icons=true&hide_border=true&theme=github_dark&locale=fr&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JORLAL&layout=compact&hide_border=true&theme=github_dark&locale=fr&langs_count=8" />
-<br/>
 <img src="https://streak-stats.demolab.com?user=JORLAL&hide_border=true&theme=github-dark-blue&locale=fr" />
 </div>
 
